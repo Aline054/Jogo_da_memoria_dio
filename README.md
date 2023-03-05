@@ -1,6 +1,6 @@
 
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+Esse é o repositório da  aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
 
 ### Os requisitos são:
 
